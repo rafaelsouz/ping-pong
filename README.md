@@ -5,8 +5,7 @@
 
 <br/>
 <br/>
-<h1 align="center">BlogApp</h1>
-Um joguinho simples, que imita o grande classico PONG! de 1972 
+<h1 align="center">Um joguinho simples, que imita o grande classico PONG! de 1972 </h1>
 
 ```
 Não precisa instalar nada.
