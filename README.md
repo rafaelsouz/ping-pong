@@ -5,7 +5,7 @@
 
 <br/>
 <br/>
-<h1 align="center">Um joguinho simples, que imita o grande classico PONG! de 1972 </h1>
+<h3 align="center">Um joguinho simples, que imita o grande classico PONG! de 1972 </h3>
 
 ### Para jogar, bastar abrir o index.html
 
