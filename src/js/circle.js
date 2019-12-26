@@ -5,8 +5,8 @@
     let radius = diam / 2;
 
 //Velocidade X e Y do circulo
-let veloX = 8;
-let veloY = 8;
+let veloX = 1;
+let veloY = 1;
 
 function showCircle(){
     circle(circleX, circleY, diam);

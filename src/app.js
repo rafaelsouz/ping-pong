@@ -1,7 +1,7 @@
 
 //Resolução da tela do jogo
 const resoX = 1000;
-const resoY = 700;
+const resoY = 600;
 
 function setup() {
     createCanvas(resoX, resoY);

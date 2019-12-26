@@ -27,8 +27,8 @@ function moveRacket(){
 
 function moveEnemyRacket(){
 
-    enemyRacketVeloY = circleY - enemyRacketY - racketLength / 2 - 30
-    if (circleY < 580 ){
+    enemyRacketVeloY = circleY - enemyRacketY - racketLength / 2 - 5
+    if (circleY < 450 ){
         enemyRacketY += enemyRacketVeloY
     }
 }
